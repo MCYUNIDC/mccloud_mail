@@ -15,7 +15,7 @@ QQ群：112406641
 ### 安装教程
 1. 下载mail文件 [点击下载](https://github.com/MCYUNIDC/mccloud_mail/archive/refs/heads/main.zip)
 2. 把mail文件放进运行目录中public即可
-3. 访问https://域名/mail/index.php 进行安装
+3. 访问 https://域名/mail/index.php 进行安装
 4. 显示安装成功记得把mail文件夹删了哦！
 
 温馨提示：修改邮件模板logo方法：后台 - 站务设置 - 基础信息 - 用户中心 - Logo 地址1(登录页)  中修改
