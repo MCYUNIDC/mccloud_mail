@@ -13,7 +13,7 @@ QQ群：112406641
 版权信息：© Copyright 版权所有 2024 - 2025 MC云.
 
 ### 安装教程
-1. 下载mail文件
+1. 下载mail文件 [点击下载](https://github.com/MCYUNIDC/mccloud_mail/archive/refs/heads/main.zip)
 2. 把mail文件放进运行目录中public即可
 3. 访问https://域名/mail/index.php 进行安装
 4. 显示安装成功记得把mail文件夹删了哦！
